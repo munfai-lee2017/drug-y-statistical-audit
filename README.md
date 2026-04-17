@@ -18,8 +18,10 @@ I used Python to prove that this discovery wasn't just a coincidence and to rule
 ## 📊Visualization Highlights
 ### Boxplot
 <img width="841" height="547" alt="Boxplot" src="https://github.com/user-attachments/assets/acaec8b5-ca3d-46f6-bf72-c08187ad2b65" />
+
 ### KDEplot
 <img width="855" height="547" alt="KDEplot" src="https://github.com/user-attachments/assets/d17a5703-28c4-446a-9e2c-cccca6ea1c39" />
+
 ### Heatmap
 <img width="882" height="336" alt="Heatmap" src="https://github.com/user-attachments/assets/6b6faf90-6588-48d8-bb4b-da1e446be06d" />
 
